@@ -1,0 +1,1 @@
+Hola {{$name}}, el correo fue enviado bien
